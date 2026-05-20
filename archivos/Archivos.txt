@@ -1,0 +1,8 @@
+C:\Users\kelli\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/kelli/Desktop/Python/archivos/archivos-1.3.py
+Marcos
+Octavio
+Cristian
+Maria
+Francis
+Caiman
+joel
